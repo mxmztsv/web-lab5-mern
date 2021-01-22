@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "kdhH54/JJBlalfg",
+  "mongoUri": "mongodb+srv://maxim:s284701@cluster0.62qqv.mongodb.net/weblab4?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
